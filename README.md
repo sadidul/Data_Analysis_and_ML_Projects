@@ -1,1 +1,1 @@
-# Data_Analysis_and_ML_Project
+# Data_Analysis_and_ML_Projects
